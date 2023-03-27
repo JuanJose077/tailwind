@@ -1,0 +1,23 @@
+{
+  "name": "tailwind",
+  "version": "0.0.1",
+  "description": "clase 27_nov",
+  "main": "index.js",
+  "scripts": {
+    
+    "dev": "npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuanJose077/tailwind.git"
+  },
+  "author": "Juan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JuanJose077/tailwind/issues"
+  },
+  "homepage": "https://github.com/JuanJose077/tailwind#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.2.7"
+  }
+}
